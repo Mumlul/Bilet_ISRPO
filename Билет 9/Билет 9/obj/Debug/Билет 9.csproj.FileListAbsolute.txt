@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\bin\Debug\Билет 9.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\bin\Debug\Билет 9.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\bin\Debug\Билет 9.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет 9.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет_9.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет_9.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет 9.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет 9.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет 9.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 9\Билет 9\obj\Debug\Билет 9.pdb

@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\bin\Debug\Билет 6.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\bin\Debug\Билет 6.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\bin\Debug\Билет 6.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет 6.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет_6.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет_6.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет 6.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет 6.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет 6.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 6\Билет 6\obj\Debug\Билет 6.pdb
