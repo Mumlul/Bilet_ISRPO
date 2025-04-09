@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\bin\Debug\Билет 17.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\bin\Debug\Билет 17.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\bin\Debug\Билет 17.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет 17.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет_17.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет_17.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет 17.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет 17.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет 17.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 17\Билет 17\obj\Debug\Билет 17.pdb

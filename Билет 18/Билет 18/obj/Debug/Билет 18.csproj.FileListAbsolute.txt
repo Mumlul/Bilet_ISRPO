@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\bin\Debug\Билет 18.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\bin\Debug\Билет 18.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\bin\Debug\Билет 18.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет 18.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет_18.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет_18.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет 18.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет 18.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет 18.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 18\Билет 18\obj\Debug\Билет 18.pdb

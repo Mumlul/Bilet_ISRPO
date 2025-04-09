@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\bin\Debug\Билет 20.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\bin\Debug\Билет 20.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\bin\Debug\Билет 20.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет 20.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет_20.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет_20.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет 20.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет 20.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет 20.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 20\Билет 20\obj\Debug\Билет 20.pdb

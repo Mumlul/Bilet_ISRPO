@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет 23.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет_23.Form1.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет_23.Properties.Resources.resources
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет 23.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет 23.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\bin\Debug\Билет 23.exe.config
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\bin\Debug\Билет 23.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\bin\Debug\Билет 23.pdb
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет 23.exe
+C:\Users\ПК\source\repos\Билеты ИСРПО\Билет 23\Билет 23\obj\Debug\Билет 23.pdb
